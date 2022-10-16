@@ -1,0 +1,89 @@
+
+
+.main_div{
+    .img_slider{
+        height: 85vh;
+        margin-bottom:40px;
+        background-image: url(../assets/1.jpg);
+        .banner-content{
+            .banner_text{
+                h1{ 
+                    text-align: center;
+                    font-size: 80px;
+                    color: rgb(30, 109, 92);
+                    text-transform: capitalize;
+                    font-weight: 700;
+                    line-height: 100px;
+                    padding-top: 190px;
+                }
+                h4{
+                    color: rgb(41, 100, 20);
+                    text-transform: capitalize;
+                    font-size: 24px;
+                    text-align: center;
+                }
+            }
+        }
+    }
+    .container{
+        margin-bottom:10px;
+        background: rgb(247, 243, 243);
+        // margin-top:5px;
+        .welcome_massage{
+            margin-top: 20px;
+            margin-bottom: 20px;
+            h2 {
+                text-align: center;
+                padding: 14px;
+                font-weight: 600;
+                color : rgb(179, 212, 118)
+            }
+            p{
+                text-align: justify;
+                width: 1100px;
+                margin: 0 auto;
+                padding: 27px;
+                font-size: 18px;
+                
+            }
+        }
+        .history{
+            margin-top: 20px;
+            margin-bottom: 20px;
+            h2 {
+                text-align: center;
+                padding: 14px;
+                font-weight: 600;
+                color : rgb(179, 212, 118)
+            }
+            p{
+                text-align: justify;
+                width: 1100px;
+                margin: 0 auto;
+                padding: 27px;
+                font-size: 20px;
+                
+            }
+        }
+        .vision{
+            margin-top: 20px;
+            margin-bottom: 20px;
+            h2 {
+                text-align: center;
+                padding: 14px;
+                font-weight: 600;
+                color : rgb(179, 212, 118)
+            }
+            p{
+                text-align: justify;
+                width: 1100px;
+                margin: 0 auto;
+                padding: 27px;
+                font-size: 20px;
+                
+            }
+        }
+
+    }
+}
+

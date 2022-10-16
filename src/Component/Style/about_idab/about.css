@@ -1,0 +1,75 @@
+.main_div .img_slider {
+  height: 85vh;
+  margin-bottom: 40px;
+  background-image: url(../assets/1.jpg);
+}
+.main_div .img_slider .banner-content .banner_text h1 {
+  text-align: center;
+  font-size: 80px;
+  color: rgb(30, 109, 92);
+  text-transform: capitalize;
+  font-weight: 700;
+  line-height: 100px;
+  padding-top: 190px;
+}
+.main_div .img_slider .banner-content .banner_text h4 {
+  color: rgb(41, 100, 20);
+  text-transform: capitalize;
+  font-size: 24px;
+  text-align: center;
+}
+.main_div .container {
+  margin-bottom: 10px;
+  background: rgb(247, 243, 243);
+}
+.main_div .container .welcome_massage {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.main_div .container .welcome_massage h2 {
+  text-align: center;
+  padding: 14px;
+  font-weight: 600;
+  color: rgb(179, 212, 118);
+}
+.main_div .container .welcome_massage p {
+  text-align: justify;
+  width: 1100px;
+  margin: 0 auto;
+  padding: 27px;
+  font-size: 18px;
+}
+.main_div .container .history {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.main_div .container .history h2 {
+  text-align: center;
+  padding: 14px;
+  font-weight: 600;
+  color: rgb(179, 212, 118);
+}
+.main_div .container .history p {
+  text-align: justify;
+  width: 1100px;
+  margin: 0 auto;
+  padding: 27px;
+  font-size: 20px;
+}
+.main_div .container .vision {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.main_div .container .vision h2 {
+  text-align: center;
+  padding: 14px;
+  font-weight: 600;
+  color: rgb(179, 212, 118);
+}
+.main_div .container .vision p {
+  text-align: justify;
+  width: 1100px;
+  margin: 0 auto;
+  padding: 27px;
+  font-size: 20px;
+}/*# sourceMappingURL=about.css.map */

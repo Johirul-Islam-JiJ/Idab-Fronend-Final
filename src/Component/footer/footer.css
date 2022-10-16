@@ -1,0 +1,85 @@
+
+footer {
+
+    background: rgb(135, 135, 136);
+    padding: 3rem 0;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 2px;
+}
+
+
+footer a {
+    color: rgb(255, 255, 255);
+    margin-top: 35px;
+    margin-bottom:20px;
+    
+}
+
+.footer_logo {
+   font-size: 5rem;
+   font-weight: 700;
+   margin-bottom: 4rem;
+   display: inline-block;
+}
+.permalinks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+
+}
+
+.footer_socials {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-bottom: 0.2rem;
+}
+
+.footer_socials a{
+    background: rgb(32, 34, 34);
+    color: rgb(255, 255, 255);
+    padding: 2rem;
+    border-radius: 6rem;
+    display: flex;
+    border: 1px solid transparent;
+}
+
+.footer_socials a:hover{
+    background: rgb(75, 74, 74);
+    color: white;
+    border-color: rgb(92, 90, 90);
+
+}
+
+.footer_copyright {
+    margin-bottom: 4rem;
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+}
+
+
+/* ========== Media Queries (Medium Devices) =============*/
+@media screen and (max-width:1024px) {
+
+
+
+}
+
+
+/* ========== Media Queries (Small Devices) =============*/
+@media screen and (max-width:600px) {
+    .permalinks {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .footer_socials {
+        margin-bottom: 2.6rem;
+    }
+
+
+}
