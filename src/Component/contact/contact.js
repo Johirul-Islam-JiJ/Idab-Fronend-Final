@@ -32,15 +32,15 @@ const Contact = () => {
                             <div class="contact-address">
                                 <div class="single-contact">
                                     <i class="fa-solid fa-location-dot"></i>
-                                    <h4>Address <span>Banasree Block-B, Road-5, House-21, Dhaka</span></h4>
+                                    <h4>Address <span>Razzak Plaza, Moghbazar, Dhaka</span></h4>
                                 </div>
                                 <div class="single-contact">
                                     <i class="fa-solid fa-square-phone"></i>
-                                    <h4>Phone<span>+880 1811178307<br/>+880 1611178307</span></h4>
+                                    <h4>Phone<span>+880 1770099496<br/>+880 1611178307</span></h4>
                                 </div>
                                 <div class="single-contact">
                                     <i class="fa-solid fa-envelope"></i>
-                                    <h4>Email<span>contact@afzal.com</span></h4>
+                                    <h4>Email<span>info@idab.com</span></h4>
                                 </div>
                                 {/* <div class="single-contact">
                                     <i class="fa-solid fa-earth-asia"></i>

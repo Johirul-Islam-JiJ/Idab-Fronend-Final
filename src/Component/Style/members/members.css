@@ -4,19 +4,19 @@
 .member .img_slider {
   height: 85vh;
   margin-bottom: 40px;
-  background-image: url(../assets/2.jpg);
+  background-image: url(../assets/3.jpg);
 }
 .member .img_slider .banner-content .banner_text h1 {
   text-align: center;
   font-size: 80px;
-  color: rgb(30, 109, 92);
+  color: rgb(13, 250, 4);
   text-transform: capitalize;
   font-weight: 700;
   line-height: 100px;
   padding-top: 190px;
 }
 .member .img_slider .banner-content .banner_text h4 {
-  color: rgb(41, 100, 20);
+  color: rgba(23, 218, 17, 0.753);
   text-transform: capitalize;
   font-size: 24px;
   text-align: center;
